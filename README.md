@@ -1,5 +1,5 @@
 # About Me:
-I'm a Full-Stack Developer pursuing an M.Sc. in Computer Science and Engineering at KTH Royal Institute of Technology.
+I'm a Full-Stack Developer building practical AI and ML solutions for real-world problems. Currently pursuing an M.Sc. in Computer Science and Engineering at KTH Royal Institute of Technology.
 
 <!--  ## Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/axellindberg) -->
